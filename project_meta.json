@@ -1,10 +1,17 @@
 {
-  "seq": 70,
   "title": "Energy Usage Dashboard for Small Businesses",
+  "old_slug": "energy-usage-dashboard-for-small-businesses",
   "slug": "energy-usage-dashboard-for-small-businesses",
   "folder": "Energy_Usage_Dashboard_For_Small_Businesses",
   "kind": "governance",
-  "body_words": 234,
+  "body_words": 296,
+  "source": "MICT Academic",
   "project_id": "Academic Project 34",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
