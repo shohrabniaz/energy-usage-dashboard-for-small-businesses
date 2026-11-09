@@ -3,7 +3,7 @@
   "old_slug": "energy-usage-dashboard-for-small-businesses",
   "slug": "energy-usage-dashboard-for-small-businesses",
   "folder": "Energy_Usage_Dashboard_For_Small_Businesses",
-  "kind": "governance",
+  "kind": "analytics",
   "body_words": 296,
   "source": "MICT Academic",
   "project_id": "Academic Project 34",
@@ -16,5 +16,6 @@
   },
   "has_automation": true,
   "entry": "python -m src.cli run",
-  "generatedUtc": "2026-11-09T13:07:13.769919+00:00"
+  "generatedUtc": "2026-11-09T13:17:40.276378+00:00",
+  "project_specific": true
 }
